@@ -45,7 +45,7 @@ You can download [**Repository**](https://github.com/AlexKrutoy/MemeFiBot) by cl
 ~ >>> cd MemeFiBot
 ```
 
-### If you are using Telethon sessions, then clone the "converter" branch
+If you are using Telethon sessions, then clone the "converter" branch
 ```shell
 ~ >>> git clone https://github.com/AlexKrutoy/MemeFiBot.git -b converter
 ~ >>> cd MemeFiBot
