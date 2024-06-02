@@ -7,7 +7,7 @@
 
 ![img1](.github/images/demo.png)
 
-> 🇪🇳 README in english available [here](README.md)
+> 🇷🇺 README на русском доступен [здесь](README-RU.md)
 
 ## Functionality
 | Functional                                                     | Supported |
