@@ -47,7 +47,7 @@
 ~ >>> cd MemeFiBot
 ```
 
-### Если вы используете Telethon сессии, то клонируйте ветку "converter"
+Если вы используете Telethon сессии, то клонируйте ветку "converter"
 ```shell
 ~ >>> git clone https://github.com/AlexKrutoy/MemeFiBot.git -b converter
 ~ >>> cd MemeFiBot
