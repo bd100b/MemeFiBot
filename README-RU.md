@@ -2,12 +2,12 @@
 
 [![Static Badge](https://img.shields.io/badge/Telegram-Chat-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_codding_chat)
 
-[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/cexio_tap_bot%3Fstart%3D1717162889191233)
+[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/memefi_coin_bot)
 
 
 ![img1](.github/images/demo.png)
 
-> 🇷🇺 README на русском доступен [здесь](README-RU.md)
+> 🇪🇳 README in english available [here](README.md)
 
 ## Функционал  
 | Функционал                                                     | Поддерживается  |
