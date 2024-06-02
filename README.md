@@ -45,13 +45,13 @@ You can download [**Repository**](https://github.com/AlexKrutoy/MemeFiBot) by cl
 ~ >>> cd MemeFiBot
 ```
 
-# If you are using Telethon sessions, then clone the "converter" branch
+### If you are using Telethon sessions, then clone the "converter" branch
 ```shell
 ~ >>> git clone https://github.com/AlexKrutoy/MemeFiBot.git -b converter
 ~ >>> cd MemeFiBot
 ```
 
-# Linux
+## Linux
 ```shell
 ~/MemeFiBot >>> python3 -m venv venv
 ~/MemeFiBot >>> source venv/bin/activate
@@ -68,7 +68,7 @@ Also for quick launch you can use arguments, for example:
 ~/MemeFiBot >>> python3 main.py -a (1/2)
 ```
 
-# Windows
+## Windows
 ```shell
 ~/MemeFiBot >>> python -m venv venv
 ~/MemeFiBot >>> venv\Scripts\activate
