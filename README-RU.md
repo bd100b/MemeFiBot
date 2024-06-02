@@ -45,18 +45,23 @@
 ```shell
 ~ >>> git clone https://github.com/AlexKrutoy/MemeFiBot.git
 ~ >>> cd MemeFiBot
+```
 
-# Если вы используете Telethon сессии, то клонируйте ветку "converter"
+### Если вы используете Telethon сессии, то клонируйте ветку "converter"
+```shell
 ~ >>> git clone https://github.com/AlexKrutoy/MemeFiBot.git -b converter
 ~ >>> cd MemeFiBot
+```
 
-# Linux
+## Linux
+```shell
 ~/MemeFiBot >>> python3 -m venv venv
 ~/MemeFiBot >>> source venv/bin/activate
 ~/MemeFiBot >>> pip3 install -r requirements.txt
 ~/MemeFiBot >>> cp .env-example .env
 ~/MemeFiBot >>> nano .env  # Здесь вы обязательно должны указать ваши API_ID и API_HASH , остальное берется по умолчанию
 ~/MemeFiBot >>> python3 main.py
+```
 
 Также для быстрого запуска вы можете использовать аргументы, например:
 ```shell
@@ -65,7 +70,8 @@
 ~/MemeFiBot >>> python3 main.py -a (1/2)
 ```
 
-# Windows
+## Windows
+```shell
 ~/MemeFiBot >>> python -m venv venv
 ~/MemeFiBot >>> venv\Scripts\activate
 ~/MemeFiBot >>> pip install -r requirements.txt
