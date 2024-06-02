@@ -89,3 +89,7 @@
 # 1 - Запускает кликер
 # 2 - Создаёт сессию
 ```
+
+### Contacts
+
+For support or questions, contact me on Telegram: [@UNKNXWNPLXYA](https://t.me/UNKNXWNPLXYA)
