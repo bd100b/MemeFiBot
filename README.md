@@ -81,9 +81,15 @@ Also for quick launch you can use arguments, for example:
 Also for quick launch you can use arguments, for example:
 ```shell
 ~/MemeFiBot >>> python main.py --action (1/2)
+
+
 # Or
 ~/MemeFiBot >>> python main.py -a (1/2)
 
 #1 - Run clicker
 #2 - Create session
 ```
+
+### Contacts
+
+For support or questions, contact me on Telegram: [@UNKNXWNPLXYA](https://t.me/UNKNXWNPLXYA)
